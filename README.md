@@ -4,7 +4,7 @@
 
 📝 Check my resume out here: [Resume](https://docs.google.com/document/d/10L9yOS6ByErLObEF64gc1jw6Ifs9C0LLAonDqJ-qAc8/edit?usp=sharing)
 
-💬 Message me here: [Linkedin](https://www.linkedin.com/in/psmith10/)
+💬 Message me here: [Linkedin](https://www.linkedin.com/in/meet-paul-smith/)
 
 📫 Reach me via email: [psmith3486@gmail.com](mailto:psmith3486@gmail.com)
 
