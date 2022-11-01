@@ -6,9 +6,9 @@
 
 🎮 Demo my Unity video games here: [Unity Play](https://play.unity.com/u/psmith35)
 
-📝 Check my resume out here: [Resume](https://docs.google.com/document/d/10L9yOS6ByErLObEF64gc1jw6Ifs9C0LLAonDqJ-qAc8/edit?usp=sharing)
+📝 Check out my resume here: [Resume](https://docs.google.com/document/d/10L9yOS6ByErLObEF64gc1jw6Ifs9C0LLAonDqJ-qAc8/edit?usp=sharing)
 
-📧 Or Reach me via email: [psmith3486@gmail.com](mailto:psmith3486@gmail.com)
+📧 Or reach me via e-mail: [psmith3486@gmail.com](mailto:psmith3486@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psmith35&layout=compact)](https://github.com/greenpioneer/github-readme-stats)
 
